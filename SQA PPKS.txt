@@ -1,0 +1,4 @@
+Requirement 
+1. login username nim required, password validation with base data required
+2. Dashboard chart diagram absensi 
+3. 
