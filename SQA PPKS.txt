@@ -1,4 +1,7 @@
 Requirement 
-1. login username nim required, password validation with base data required
-2. Dashboard chart diagram absensi 
-3. 
+1. login username required, password validation with base data required
+2. Dashboard Sub menu or digram chart absen
+3. Data Master
+4. Absen  --- > Masuk, Izin , Sakit
+5. Konfirmasi Absen 
+6. Report Absen pdf or excel or print
